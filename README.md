@@ -1,6 +1,7 @@
 # MBJ_BasicTexturing
 
-A conversion to Swift of the example MBE_BasicTexturing from the blog "Metal by Example" written by Warren Moore.
+A conversion to Swift of the example MBE_BasicTexturing written by Warren Moore.
+[Metal By Example](http://metalbyexample.com "Metal By Example")
 
 Converted to Swift by Jamnitzer (Jim Wrenholt)
 
